@@ -3,7 +3,8 @@ Course: CEN 3024C
 CRN: 31950  
 
 
-# COP333C-Project-3
+# COP333C-Project-3  
+Exceptions
 
 Phillip Yohner
 COP 3330C - CRN 24680
